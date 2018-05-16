@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="PianoARNewMarker" size="1.000000 0.257000" />
+    <ImageTarget name="big_100rubles_2016UO_1_avers" size="5.000000 2.118644" />
+  </Tracking>
+</QCARConfig>

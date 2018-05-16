@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Note
+  - Redline
+  - FirstNote
+  - DestroyLine
+  - KeyBoard
+  - SubMenu
+  - CalibratingNote
+  - FirstLine
+  - SecondLine
+  - CalibratingMenu
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2698814129
+    locked: 0
+  - name: Note
+    uniqueID: 1627242939
+    locked: 0
+  - name: Keys
+    uniqueID: 2197967153
+    locked: 0
+  - name: BlackKeys
+    uniqueID: 763767881
+    locked: 0
